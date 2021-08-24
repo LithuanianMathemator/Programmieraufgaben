@@ -1,3 +1,4 @@
+
 def get_lattice_point_number(h, a1, a2, b1, b2):    # Definition der Funktion
 
     if h < 0:
