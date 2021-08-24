@@ -1,5 +1,5 @@
-from math import sqrt
 
+from math import sqrt
 
 def sieve(n):                                           # Funktion definiert
 
