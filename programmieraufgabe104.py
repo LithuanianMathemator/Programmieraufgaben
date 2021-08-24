@@ -1,3 +1,4 @@
+
 def linear_regression(points, lines):                   # Funktion definiert
 
     distancelist = []                                   # Liste definiert
