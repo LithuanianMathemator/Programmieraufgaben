@@ -1,6 +1,6 @@
 # Programmieraufgaben
 
-![alt text](https://github.com/[LithuanianMathemator]/[Programmieraufgaben]/blob/[main]/tulogo.png?raw=true)
+![alt text](https://github.com/LithuanianMathemator/Programmieraufgaben/blob/main/tulogo.png?raw=true)
 
 Programming exercises from "Computerorientierte Mathematik I+II" at Technische Universität Berlin
 
